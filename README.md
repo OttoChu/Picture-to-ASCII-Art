@@ -1,4 +1,4 @@
-# Image to Text
+# Image to ASCII Art
 This will turn all images (.png, .jpg, .jpeg) in the same directory into ASCII art in a text file.
 The test files will be named as the same as the image file name.
 For example: image.jpg -> image.txt
